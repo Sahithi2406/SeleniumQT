@@ -32,7 +32,7 @@ public class Array {
 		System.out.println("value:"+a[i]);
 	}
 	
-	//System.out.println(a[]);	
+	
 	}
 
 	 @AfterTest
